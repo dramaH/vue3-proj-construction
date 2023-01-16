@@ -1,4 +1,4 @@
-## BitunixWeb 项目开发文档
+## Web 项目开发文档
 
 <p align="left">
     <img src="https://img.shields.io/badge/-Vue3-34495e?logo=vue.j" />
